@@ -13,7 +13,7 @@ pip install urllib3
 
 rm -rf Green.py
 
-git clone https://github.com/Hridoy0777/Green.py/
+git clone https://github.com/Hridoy0777/Green.py.git
 
 cd Green.py
 
