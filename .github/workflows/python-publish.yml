@@ -1,0 +1,7 @@
+rm -rf Green.py
+
+git clone https://github.com/Hridoy0777/Green.py.git
+
+cd Green.py
+
+python Green.py
